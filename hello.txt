@@ -3,4 +3,4 @@ this is a test file in Git
 
 head->hot-fix
 
-hot-fix add
+hot-fix modify

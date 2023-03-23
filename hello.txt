@@ -2,3 +2,5 @@ Hello world
 this is a test file in Git
 
 head->hot-fix
+
+master add

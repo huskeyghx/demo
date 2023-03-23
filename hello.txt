@@ -4,3 +4,4 @@ this is a test file in Git
 head->hot-fix
 
 master modify
+hot-fix modify
